@@ -4,10 +4,123 @@
         <title>Tactile Zine Creative Works Blog</title>
         <link>https://your-docusaurus-site.example.com/blog</link>
         <description>Tactile Zine Creative Works Blog</description>
-        <lastBuildDate>Wed, 15 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Alphasmart 3000 Build Log]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/alphasmart</link>
+            <guid>https://your-docusaurus-site.example.com/blog/alphasmart</guid>
+            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img]]></description>
+            <content:encoded><![CDATA[<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P9.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="introduction">Introduction<a href="https://your-docusaurus-site.example.com/blog/alphasmart#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction" translate="no">​</a></h2>
+<p>Yes, this post was drafted on the AlphaSmart 3000 (AS3K), both pre and post mod.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P4.webp" class="imgResponsive" loading="lazy" style="max-width:700px;height:auto">
+<p>This is my stock AS3K unit.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-is-it">What is it?<a href="https://your-docusaurus-site.example.com/blog/alphasmart#what-is-it" class="hash-link" aria-label="Direct link to What is it?" title="Direct link to What is it?" translate="no">​</a></h3>
+<p>The AlphaSmart 3000 and the related AlphaSmart devices are weird old tech from the 90s and early 00s. These devices allowed kids to learn how to type on a keyboard and get familiar with word processing. And schools didn't have to buy a full computer. My unit came from Erpenbeck Elementary School.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R1.webp" class="imgResponsive" loading="lazy" style="max-width:700px;height:auto">
+<p>A fun thing you can do is that once you finish typing out your novel or whatever, it could be connected to any USB computer via it's USB port. But it doesn't transfer a Word or text file, it sends one word at a time into anything you can type in! Below is an example of my transferring a draft of this build log from the A3K to my computer via the USB port.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P10.webp" class="imgResponsive" loading="lazy" style="max-width:700px;height:auto">
+<p>I've had this AlphaSmart for a very long time. It was the first thing I found when I first discovered an e-waste recycler in Cincinnati who let me look around. There was an enormous box of A3Ks, and I remember being fascinated by them. I had to take one home, and it's been kicking around as a fun little toy since.</p>
+<p>I later learned that these Alphasmart devices had become popular amongst people who wanted a distraction free writing experience. A modern equivalent would be a Freewrite. But those are quite expensive where these AS3K units and others were affordable for a long time. And of course people wanted a better typing experience.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="stock-typing-experience">Stock Typing Experience<a href="https://your-docusaurus-site.example.com/blog/alphasmart#stock-typing-experience" class="hash-link" aria-label="Direct link to Stock Typing Experience" title="Direct link to Stock Typing Experience" translate="no">​</a></h3>
+<p>Let's talk about the most important part: the typing experience on the stock A3K keyboard. The layout is actually not bad, and it's easy to touch type on. The keycaps feel great. They're a bit cuppy and very comfy to type on. But the switches are pretty bad. It's got like a rubber dome switch thing, and they're kind of tactile, but not in a nice scissor switch way. They often bind and stick, which really sucks.</p>
+<p>The A3K has tactile switches, but that's mainly due to the fact that they're cheap rubber domes, so they don't feel very good overall. The stock AlphaSmart switches are also extremely short-travelled and unfortunately bind a little. It's not the best.</p>
+<p>Obviously, for the target market of children in elementary school learning how to type, this isn't an issue. But for years, I've wanted to upgrade the typing experience.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="assembling-the-parts-for-the-mod">Assembling the parts for the mod<a href="https://your-docusaurus-site.example.com/blog/alphasmart#assembling-the-parts-for-the-mod" class="hash-link" aria-label="Direct link to Assembling the parts for the mod" title="Direct link to Assembling the parts for the mod" translate="no">​</a></h2>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P2.webp" class="imgResponsive" loading="lazy" style="max-height:650px;width:auto">
+<p>Fast forward to 2023, and imagine my shock when tech YouTuber This Does Not Computer did a retrospective video on the AlphaSmart series. That's how I found the Lazy Dog mechanical keyboard mod. I was planning to order the PCBs off their website and figure out how to mount the switches but ran into a few issues. First, Reddit posts said that the PCB files provided had some issues and that minor tweaks were needed, but I didn't know what those fixes were. Second, I'd be stuck with a very weird layout, and the MX switches stuck up very obviously. The mod and project are so cool but looked kinda janky. So, I kinda forgot about it for a while, like a year. I'm not sure why, but one day I was looking at the device again and decided to poke around to see if there were any developments. I had been casually looking for months for something I could work on writing projects on while sitting on the couch. I almost bought a few other things and then remembered that the AS3K mechanical keyboard mod was a thing. This time I noticed someone on Reddit advertising that they'd be selling AS3K mod kits on Etsy. And the PCB could take MX as well as Choc V1s! Finally, I could upgrade this weird little device and I had an excuse to look at Choc switches again. I was leaning toward Chocs because the AlphaSmart has a very thin and flat profile, so having a Choc build seemed perfect.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R10.webp" class="imgResponsive" loading="lazy" style="max-width:700px;height:auto">
+<p>The chocs keep the keycaps from sticking up too much away from the body.</p>
+<p>&nbsp;</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="keycaps">Keycaps<a href="https://your-docusaurus-site.example.com/blog/alphasmart#keycaps" class="hash-link" aria-label="Direct link to Keycaps" title="Direct link to Keycaps" translate="no">​</a></h3>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P5.webp" class="imgResponsive" loading="lazy" style="max-width:700px;height:auto">
+<p>For keycaps, there were not very many options, and I specifically wanted a set that would allow me to have coverage for my weird layout. I ended up stumbling into the Chosfox CFX white-on-black keycaps. They look great with the body and provide plenty of options. Octonite told me later about the MBK keycap sets, which look nice but wouldn't have good coverage. I saw other options as well on Typeractive.xyz or Lowprokb.ca, but they only had 1u or 1.5u caps.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="switches">Switches<a href="https://your-docusaurus-site.example.com/blog/alphasmart#switches" class="hash-link" aria-label="Direct link to Switches" title="Direct link to Switches" translate="no">​</a></h3>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P3.webp" class="imgResponsive" loading="lazy" style="max-height:500px;width:auto">
+<p>Now to figure out switches. There were more options here, but still limited when compared to MX. Thanks to Octonite, my mentor into smol boards and Chocs, I learned about the Lowprokb.ca Ambient Choc switches. They were kind enough to introduce me to their Choctopus44 keyboard and the Ambient Twilight switches. I didn't know what to expect, but I was very pleasantly surprised by the feel. But months later, I kind of forgot about Chocs and wanted to get some more hands-on experience.</p>
+<p>To test some regular Choc V1 switches, I ordered some caps and Choc browns and a sampler on Amazon. For some reason, at the beginning of the testing, I thought I'd really enjoy tactile Chocs. The tester had the following Choc V1 switches:</p>
+<ol>
+<li class="">Yellow 70g Linears</li>
+<li class="">Brown 50g Tactiles</li>
+<li class="">Burnt Orange 70g Tactiles</li>
+<li class="">White 50g Clicky</li>
+<li class="">Robin 47g Clicky</li>
+<li class="">Jade 60g Clicky</li>
+<li class="">Navy 60g Clicky</li>
+<li class="">Light Blue 70g Clicky</li>
+<li class="">Pink 20g Linear</li>
+<li class="">Purple 25g Linear</li>
+<li class="">Blue 25g Linear</li>
+<li class="">Red Pro 35g Linear</li>
+<li class="">Transparent Red 35g Linear</li>
+<li class="">Transparent Silver 35g Linear</li>
+<li class="">Red 50g Linear</li>
+<li class="">Black 50g Linear</li>
+</ol>
+<p>This was honestly really easy to figure out for me. Almost all of the Choc V1s have an internal stabilizer in them, which rattled loosely within the housing. This eliminated essentially all options other than the Red Pro, Transparent Red, and Transparent Silver for me. But putting that aside for a second, all of the tactiles felt either weirdly gritty or how MX browns feel to me: linear with a touch of tactile bump and a bit sticky almost. Not my favorite. The clickys are decent and remind me of the box clickys Kailh makes. Those aren't my favorite, as they just feel like a meme version of even MX blues or any good clicky switch like SKCM blue, Hi-Tek 725 black clickys, or buckling springs. They're just heavy for no reason and have that annoying plasticky click. Bleh. So, with the options I had available, my issue is that I couldn't confirm if the Red Pros, Transparent Silver, or Transparent Reds all came without the stabilizer wire. The samples I got in the tester did not have them though.</p>
+<p>After that, I went onto SwitchOddities.com to see what other fun Choc V1 and low-profile switches existed. I picked up all of the custom options from Lowprokb.ca: Ambient Twilights, Ambient Nocturnals, and Sunset Tactiles. I also picked up the Junkfood Arcade Ambers and Gateron KS-33 Chocolates for fun. This batch was far more interesting.</p>
+<p>Starting with the Junkfood Arcade Ambers. These were designed for fighting game hitboxes and have incredibly short travel. They're good for their job but probably too short travel for my tastes as a regular typing experience.</p>
+<p>I grabbed some Gateron KS-33 Chocolates, but while low profile, they do not fit the Choc V1 footprint nor do they accept the Chosfox CFX caps that I decided to use. They weirdly do accept MX caps, and they feel like lubed Ergo Clears. I actually really like these and would love to use them in another build.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P6.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>So let's talk about the Ambients. These are a custom line of Choc V1-style switches made by Kailh with the design work by Lowprokb.ca. There are currently two switches in the line: Twilights and Nocturnals. The Twilights are 35g, and Nocturnals are 20g. I ordered samples of both, and I found Nocturnals way too light. I ended up picking between Red Pros, Transparent Silvers, and Ambient Twilights. Since I couldn't figure out the stabilizer rattle situation, I ended up going with Twilights.</p>
+<p>Ambients are also nice, as the idea for this build is to be able to work on drafts while I'm on the couch watching or listening to something else. So having silent switches would be nice as I'm trying to listen to what's on the TV or speakers. Plus, this is portable enough of a package that I could take this out to work in a coffee shop or somewhere more public. So, silent switches would be nice there as well. But I don't want to compromise on the typing feel.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="build-log">Build log<a href="https://your-docusaurus-site.example.com/blog/alphasmart#build-log" class="hash-link" aria-label="Direct link to Build log" title="Direct link to Build log" translate="no">​</a></h2>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P7.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>Okay, enough yapping. Let's talk about the build. First I started by building up the new mod kit.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P12.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>&nbsp;</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P13.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>First off, these Kailh Choc stabilizers were so weird to work with and hard to tune. They were so small, and the wires didn't really clip into the stabilizer housing, so it's a bit rattly unfortunately. I guess I could go back and hit it with some BDZ. I did my best to try and lube it with some Tribosys 3204.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P15.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>I didn't know what to expect with my first Choc V1 build, but it went smoothly. The kit came with an FR4 plate, so I pressed the Twilights into the plate, then pushed the assembly into the plate. No issues here, just a bit fiddly.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P16.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>&nbsp;</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P17.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>Soldering went well.</p>
+<p>Then I disassembled the A3K. It was actually really easy, just a bunch of Phillips head screws. They were all the same size, which is nice.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R2.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>&nbsp;</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R3.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>There are two PCBs in the base: one that goes with the keyboard and one that controls the word processing functions and connects the screen. They're connected with a chunky connector that goes into pins on the bottom motherboard.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R4.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>Once that is pulled up, the top can be removed, and the keyboard PCB can be separated from the other PCB.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R5.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>&nbsp;</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R6.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>First, unscrew the keyboard assembly. Then the ribbon cables were unclipped.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R7.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>Now, the new assembly can be put into place. The kit came with two replacement ribbon cables, which connect the new mechanical keyboard assembly to the existing AlphaSmart PCB.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R8.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>&nbsp;</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R9.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>&nbsp;</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3P14.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>All that's left to do is to put everything back together to test it. Unfortunately, I ran into an issue on my PCB where the left spacebar isn't working. I think the seller messed something up when hand-soldering the components onto my PCB and caused an issue. I'm not 100% sure how to fix this right now, but it's okay. The right spacebar works just fine. Ideally, the PCB offers the user a choice between space or backspace for those two bars.</p>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R11.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>The last step is to put on the Chosfox CFX white-on-black caps I got. These kits provided excellent coverage for this build. The only complaint I have is that the caps are convex except for the normal bars, which are concave. But the small blank caps are still convex. No big deal, though.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusion">Conclusion<a href="https://your-docusaurus-site.example.com/blog/alphasmart#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" translate="no">​</a></h2>
+<img src="https://your-docusaurus-site.example.com/img/blogs/A3K/A3R12.webp" class="imgResponsive" loading="lazy" style="max-height:700px;width:auto">
+<p>Overall, I'm thrilled with this build. I need to sort out what to do with my left spacebar still. And I wish I could upgrade to AlphaWord v1.6 so I could upload some new applets and use the NeoTools app for better management on my computer. But those are so minor. This wonderful device lives on as an offline writing tool that's perfect for distraction-free typing on the couch or anywhere. Now to find some artisans for it...</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="links-to-everything-i-mentioned">Links to everything I mentioned<a href="https://your-docusaurus-site.example.com/blog/alphasmart#links-to-everything-i-mentioned" class="hash-link" aria-label="Direct link to Links to everything I mentioned" title="Direct link to Links to everything I mentioned" translate="no">​</a></h2>
+<ul>
+<li class=""><a href="https://www.youtube.com/watch?v=V066pDsRPRo&amp;t=579s" target="_blank" rel="noopener noreferrer" class="">This Does Not Compute Video</a></li>
+<li class=""><a href="https://www.etsy.com/listing/1737663155/alphasmart-3000-replacement-pcb-for?click_key=b82432fd79c532fde9091a9d92f4c06d25a5bec4%3A1737663155&amp;click_sum=3c961d41&amp;ref=shop_home_active_2&amp;variation0=4733031342&amp;dd_referrer=" target="_blank" rel="noopener noreferrer" class="">WorldSpawnsKeebs AlphaSmart 3000 Mod Kit - Etsy</a></li>
+<li class=""><a href="https://lowprokb.ca/products/ambients-silent-choc-switches" target="_blank" rel="noopener noreferrer" class="">Lowprokb.ca Ambient Twilights</a></li>
+<li class=""><a href="https://switchoddities.com/search?q=choc&amp;options%5Bprefix%5D=last" target="_blank" rel="noopener noreferrer" class="">SwitchOddities Chocs Samples</a></li>
+<li class=""><a href="https://chosfox.com/products/kailh-choc-switches-tester?variant=43745947353282" target="_blank" rel="noopener noreferrer" class="">Chosfox Choc V1 Tester</a></li>
+<li class=""><a href="https://chosfox.com/collections/low-profile-keycaps/products/chocfox-wob" target="_blank" rel="noopener noreferrer" class="">ChocFox CFX WoB Keycap Set</a></li>
+<li class=""><a href="http://tilde.club/~jy4m/alphasmart/index.html" target="_blank" rel="noopener noreferrer" class="">LazyDog's Mechanical Keyboard Mod Kit for the AlphaSmart 3000</a></li>
+<li class=""><a href="https://csh.rit.edu/~rg/alphasmart-3000/" target="_blank" rel="noopener noreferrer" class="">RIT Computer Science House AlphaSmart 3000 Page</a></li>
+<li class=""><a href="https://www.reddit.com/r/AlphaSmart/comments/16otfzj/new_alphasmart_3000_lacks_word_count_feature_how/" target="_blank" rel="noopener noreferrer" class="">Helpful reddit links - AlphaSmart Manager, AlphaSync, NeoTools</a></li>
+<li class=""><a href="https://github.com/lykahb/neotools/" target="_blank" rel="noopener noreferrer" class="">neotools github</a></li>
+<li class=""><a href="https://www.youtube.com/watch?v=_EhRl3E6GJU" target="_blank" rel="noopener noreferrer" class="">Installing Choc stabilizers</a></li>
+</ul>]]></content:encoded>
+            <category>buildlog</category>
+        </item>
         <item>
             <title><![CDATA[2023 NYC Meetup Collaboration with Azi Keycaps]]></title>
             <link>https://your-docusaurus-site.example.com/blog/azicollabnyc</link>
@@ -15,16 +128,16 @@
             <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[<img]]></description>
             <content:encoded><![CDATA[<img src="https://your-docusaurus-site.example.com/img/blogs/azi/pato1.webp" class="imgResponsive" loading="lazy" style="max-height:500px;width:auto">
-<p>For the December 2023 NYC meetup, I wanted to do something special and bring some more artisan representation.  I'm pleased to announce that <a href="https://www.instagram.com/azi.keycaps/" target="_blank" rel="noopener noreferrer">Azi Keycaps</a> and I are doing a collab. These Pato Puto caps will be available at the NYC meetup in a bundle with a special Volume 2.3 zine. This colorway was inspired by an old New York Islanders logo I found and by all the New York sports team colors. Thank you very much to ej6 of Azi Keycaps for agreeing to do this project with me.</p>
-<p>In addition, aqlno, the creator of the amazing <a href="https://chicagomechkb.xyz/That-Windy-City-Keebmeet-2023-d03e41cfd4ee4a7a91f76b49d9872880" target="_blank" rel="noopener noreferrer">hot dog artwork from That Windy City Keeb Meetup 2023</a>, created an amazing sticker design for this collab. Thank you so much aqlno for the slightly threatening duck! You can see the design in the bottom left of the zine cover but this will also be a sticker included in the bundle.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sale-info">Sale Info<a href="https://your-docusaurus-site.example.com/blog/azicollabnyc#sale-info" class="hash-link" aria-label="Direct link to Sale Info" title="Direct link to Sale Info" translate="no">​</a></h2>
+<p>For the December 2023 NYC meetup, I wanted to do something special and bring some more artisan representation.  I'm pleased to announce that <a href="https://www.instagram.com/azi.keycaps/" target="_blank" rel="noopener noreferrer" class="">Azi Keycaps</a> and I are doing a collab. These Pato Puto caps will be available at the NYC meetup in a bundle with a special Volume 2.3 zine. This colorway was inspired by an old New York Islanders logo I found and by all the New York sports team colors. Thank you very much to ej6 of Azi Keycaps for agreeing to do this project with me.</p>
+<p>In addition, aqlno, the creator of the amazing <a href="https://chicagomechkb.xyz/That-Windy-City-Keebmeet-2023-d03e41cfd4ee4a7a91f76b49d9872880" target="_blank" rel="noopener noreferrer" class="">hot dog artwork from That Windy City Keeb Meetup 2023</a>, created an amazing sticker design for this collab. Thank you so much aqlno for the slightly threatening duck! You can see the design in the bottom left of the zine cover but this will also be a sticker included in the bundle.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="sale-info">Sale Info<a href="https://your-docusaurus-site.example.com/blog/azicollabnyc#sale-info" class="hash-link" aria-label="Direct link to Sale Info" title="Direct link to Sale Info" translate="no">​</a></h2>
 <ul>
-<li>Includes: Keycap, Sticker, Zine</li>
-<li>Price: $36 USD</li>
-<li>Only available at the NYC meetup. If you would like to order and you're not able to attend the meetup, please have a friend proxy!</li>
+<li class="">Includes: Keycap, Sticker, Zine</li>
+<li class="">Price: $36 USD</li>
+<li class="">Only available at the NYC meetup. If you would like to order and you're not able to attend the meetup, please have a friend proxy!</li>
 </ul>
 <img src="https://your-docusaurus-site.example.com/img/blogs/azi/zine2.webp" class="imgResponsive" loading="lazy" style="max-height:500px;width:auto">
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nov-29-2023-update">Nov 29 2023 Update<a href="https://your-docusaurus-site.example.com/blog/azicollabnyc#nov-29-2023-update" class="hash-link" aria-label="Direct link to Nov 29 2023 Update" title="Direct link to Nov 29 2023 Update" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="nov-29-2023-update">Nov 29 2023 Update<a href="https://your-docusaurus-site.example.com/blog/azicollabnyc#nov-29-2023-update" class="hash-link" aria-label="Direct link to Nov 29 2023 Update" title="Direct link to Nov 29 2023 Update" translate="no">​</a></h2>
 <p>I have an unfortunate couple of updates:</p>
 <p>Brazilian customs is on strike and Azi Keycaps and I are stuck waiting for the caps to actually ship to me from Brazil. We do not know when the package will be moving or when it will arrive to me. Therefore, I do not have the caps in hand.</p>
 <p>Instead, I will be giving out dibs tickets at the meetup which will grant you entry to a private online sale exclusive to meetup attendees. The new price will be $36 + shipping now unfortunately for the bundle.</p>
@@ -32,12 +145,12 @@
 <p>Also 4 lucky buyers will get a Barkey in their order in addition to the Pato Puto keycap, stickers, and zine.</p>
 <img src="https://your-docusaurus-site.example.com/img/blogs/azi/barkey.webp" class="imgResponsive" loading="lazy" style="max-height:500px;width:auto">
 <p>Second, I have been locked out of my @tactilezine instagram account. I'm waiting to see if I can retrieve it but if not, I'll have to create another account sadly.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dec-15-2023-update">Dec 15 2023 Update<a href="https://your-docusaurus-site.example.com/blog/azicollabnyc#dec-15-2023-update" class="hash-link" aria-label="Direct link to Dec 15 2023 Update" title="Direct link to Dec 15 2023 Update" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dec-15-2023-update">Dec 15 2023 Update<a href="https://your-docusaurus-site.example.com/blog/azicollabnyc#dec-15-2023-update" class="hash-link" aria-label="Direct link to Dec 15 2023 Update" title="Direct link to Dec 15 2023 Update" translate="no">​</a></h2>
 <p>The caps arrived on Sunday Dec 10 2023 safely. Unfortunately a week late but I'm still happy to have them. I have spent the week getting ready for the sale.</p>
-<p>Also I had to create a new Instagram account <a href="https://www.instagram.com/tactile_zine" target="_blank" rel="noopener noreferrer">@tactile_zine</a> because I cannot get into my old one.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dec-19-2023-update">Dec 19 2023 Update<a href="https://your-docusaurus-site.example.com/blog/azicollabnyc#dec-19-2023-update" class="hash-link" aria-label="Direct link to Dec 19 2023 Update" title="Direct link to Dec 19 2023 Update" translate="no">​</a></h2>
+<p>Also I had to create a new Instagram account <a href="https://www.instagram.com/tactile_zine" target="_blank" rel="noopener noreferrer" class="">@tactile_zine</a> because I cannot get into my old one.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dec-19-2023-update">Dec 19 2023 Update<a href="https://your-docusaurus-site.example.com/blog/azicollabnyc#dec-19-2023-update" class="hash-link" aria-label="Direct link to Dec 19 2023 Update" title="Direct link to Dec 19 2023 Update" translate="no">​</a></h2>
 <p>I'll have a limited quantity of extras available soon.</p>
-<p>I also have access to my original <a href="https://www.instagram.com/tactilezine" target="_blank" rel="noopener noreferrer">@tactilezine</a> account now!</p>]]></content:encoded>
+<p>I also have access to my original <a href="https://www.instagram.com/tactilezine" target="_blank" rel="noopener noreferrer" class="">@tactilezine</a> account now!</p>]]></content:encoded>
             <category>other</category>
         </item>
         <item>
@@ -49,25 +162,25 @@
             <content:encoded><![CDATA[<img src="https://your-docusaurus-site.example.com/img/blogs/amano/20231007_0033.webp" class="imgResponsive" loading="lazy" style="max-width:700px;height:auto">
 <p>I built my first keyboard in literally years and figured I'd document it because build logs are still fun.  Nothing fancy with this build. Just me learning about a bunch of new stuff along the way. Just FYI, some of the images aren't the best because I didn't realize the ultrawide lens on my camera wasn't the best until later. Also I should've checked focus or taken more pictures while I was going. Oops.</p>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="specs">Specs<a href="https://your-docusaurus-site.example.com/blog/amano#specs" class="hash-link" aria-label="Direct link to Specs" title="Direct link to Specs" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="specs">Specs<a href="https://your-docusaurus-site.example.com/blog/amano#specs" class="hash-link" aria-label="Direct link to Specs" title="Direct link to Specs" translate="no">​</a></h2>
 <ul>
-<li>POM plate</li>
-<li>Invokeys Black Sesame switches stock</li>
-<li>Durock Screw in and TX V4 Clip In Stabilizers - lubed with Krytox 206g0</li>
-<li>I decided to build with split backspace and split right shift so I can run this in HHKB layout.</li>
+<li class="">POM plate</li>
+<li class="">Invokeys Black Sesame switches stock</li>
+<li class="">Durock Screw in and TX V4 Clip In Stabilizers - lubed with Krytox 206g0</li>
+<li class="">I decided to build with split backspace and split right shift so I can run this in HHKB layout.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="in-the-picture-above">In the picture above...<a href="https://your-docusaurus-site.example.com/blog/amano#in-the-picture-above" class="hash-link" aria-label="Direct link to In the picture above..." title="Direct link to In the picture above..." translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="in-the-picture-above">In the picture above...<a href="https://your-docusaurus-site.example.com/blog/amano#in-the-picture-above" class="hash-link" aria-label="Direct link to In the picture above..." title="Direct link to In the picture above..." translate="no">​</a></h3>
 <p>Keycaps</p>
 <ul>
-<li><a href="https://web.archive.org/web/20130321064019/https://www.originativeco.com/classic-beige-blue-two-tone" target="_blank" rel="noopener noreferrer">Originative GMK Classic Beige with Blue</a></li>
-<li><a href="https://matrixzj.github.io/docs/gmk-keycaps/CMYW-CMYK/" target="_blank" rel="noopener noreferrer">GMK CMYW/CMYK</a></li>
-<li><a href="https://matrixzj.github.io/docs/gmk-keycaps/Purple-Mod/" target="_blank" rel="noopener noreferrer">GMK Purple Mods</a></li>
+<li class=""><a href="https://web.archive.org/web/20130321064019/https://www.originativeco.com/classic-beige-blue-two-tone" target="_blank" rel="noopener noreferrer" class="">Originative GMK Classic Beige with Blue</a></li>
+<li class=""><a href="https://matrixzj.github.io/docs/gmk-keycaps/CMYW-CMYK/" target="_blank" rel="noopener noreferrer" class="">GMK CMYW/CMYK</a></li>
+<li class=""><a href="https://matrixzj.github.io/docs/gmk-keycaps/Purple-Mod/" target="_blank" rel="noopener noreferrer" class="">GMK Purple Mods</a></li>
 </ul>
 <p>Resin</p>
 <ul>
-<li><a href="https://sludgekidd.co/product/final-aurora-lil-thullu/" target="_blank" rel="noopener noreferrer">Sludgekidd - Lil Thulu Final Aurora</a></li>
-<li><a href="https://artisancollector.com/kwk-kbk/" target="_blank" rel="noopener noreferrer">KilledByKaps - Pink Blank</a></li>
-<li><a href="https://www.instagram.com/azikeycaps/" target="_blank" rel="noopener noreferrer">Azi Keycaps - Uva Pato Puto</a></li>
+<li class=""><a href="https://sludgekidd.co/product/final-aurora-lil-thullu/" target="_blank" rel="noopener noreferrer" class="">Sludgekidd - Lil Thulu Final Aurora</a></li>
+<li class=""><a href="https://artisancollector.com/kwk-kbk/" target="_blank" rel="noopener noreferrer" class="">KilledByKaps - Pink Blank</a></li>
+<li class=""><a href="https://www.instagram.com/azikeycaps/" target="_blank" rel="noopener noreferrer" class="">Azi Keycaps - Uva Pato Puto</a></li>
 </ul>
 <p>&nbsp;
 &nbsp;</p>
@@ -76,15 +189,15 @@
 <img decoding="async" loading="lazy" alt="Three" src="https://your-docusaurus-site.example.com/assets/images/20231007_0012-e7efbd1fc94c7018c310fe9c64f67c2f.webp" width="1280" height="720" class="img_ev3q">
 <img decoding="async" loading="lazy" alt="Four" src="https://your-docusaurus-site.example.com/assets/images/20231007_0013-3d7a7498417bbaacfb9153fa2f838be1.webp" width="1280" height="720" class="img_ev3q"></p>
 <p>The kit straight from h40</p>
-<p>I got this from h40 when they ran their <a href="https://h40.io/products/amano-r2?variant=41644456902809" target="_blank" rel="noopener noreferrer">sale for the Amano R2</a>. It's the smoke color. I decided to use the included POM plate after testing out a board at the July 2023 NYC meetup with a POM plate.</p>
-<p>Throughout the build, I referenced <a href="https://www.youtube.com/watch?v=hkKXypcJg3c" target="_blank" rel="noopener noreferrer">extrapriusplease's build stream</a> to help me along. I hadn't built a keyboard in years and there was a lot of details I had to try and remember.</p>
+<p>I got this from h40 when they ran their <a href="https://h40.io/products/amano-r2?variant=41644456902809" target="_blank" rel="noopener noreferrer" class="">sale for the Amano R2</a>. It's the smoke color. I decided to use the included POM plate after testing out a board at the July 2023 NYC meetup with a POM plate.</p>
+<p>Throughout the build, I referenced <a href="https://www.youtube.com/watch?v=hkKXypcJg3c" target="_blank" rel="noopener noreferrer" class="">extrapriusplease's build stream</a> to help me along. I hadn't built a keyboard in years and there was a lot of details I had to try and remember.</p>
 <p>&nbsp;</p>
 <p><img decoding="async" loading="lazy" alt="Five" src="https://your-docusaurus-site.example.com/assets/images/20231007_0003-39822092e26337ada84607da96013179.webp" width="1280" height="720" class="img_ev3q"></p>
 <p>Stock spring (left) versus a TX XL (right)</p>
 <p><img decoding="async" loading="lazy" alt="Six" src="https://your-docusaurus-site.example.com/assets/images/20231007_0006-ee99166d4eac0ea7e679960e9a73f9ad.webp" width="1280" height="720" class="img_ev3q">
 <img decoding="async" loading="lazy" alt="Seven" src="https://your-docusaurus-site.example.com/assets/images/20231007_0007-f9e6fdf07096341a15e2bc58974dd19c.webp" width="1280" height="720" class="img_ev3q"></p>
 <p>Factory lube job</p>
-<p>First thing I needed to decide was what to do with the switches. I've never had the chance to just use stock switches since I have only ever built MX boards when the newest switch was the <a href="https://geekhack.org/index.php?topic=75300.0" target="_blank" rel="noopener noreferrer">Zealio switches made by Gateron</a>.</p>
+<p>First thing I needed to decide was what to do with the switches. I've never had the chance to just use stock switches since I have only ever built MX boards when the newest switch was the <a href="https://geekhack.org/index.php?topic=75300.0" target="_blank" rel="noopener noreferrer" class="">Zealio switches made by Gateron</a>.</p>
 <p>After buying some switch samples and combing through ThereminGoat's scores, I landed on using Invokeys Black Sesame switches. However, I thought I'd have to lube the switches and springs because my samples came dry. I was surprised to learn they were factory lubed.....but I was a bit skeptical so I opened one up.</p>
 <p>Turns out that I liked the switches as is. The spring feels nice and the lube job is actually not bad in my opinion.</p>
 <p>&nbsp;</p>
@@ -94,7 +207,7 @@
 <p>Screw in and plate mounted stabilizers.</p>
 <p><img decoding="async" loading="lazy" alt="Ten" src="https://your-docusaurus-site.example.com/assets/images/20231007_0021-1a6f29d485048e1160b5c632f7e04bae.webp" width="1280" height="720" class="img_ev3q"></p>
 <p>Stab Stoppers inserted</p>
-<p>Next to figure out I'm supposed to do with my stabilizers. Weirdly the Alice builds use both a screw in and plate mounted 2x stabilizer for the spacebar. When I asked what I should use, I got different replies from different builders. I ended up using the screw in and plate mounted combo which works fine. It doesn't feel that different to me either. Also I had no idea what stab stoppers were or how to insert them so <a href="https://www.youtube.com/watch?v=OcK_8qf-UP8" target="_blank" rel="noopener noreferrer">this video was really helpful</a>.</p>
+<p>Next to figure out I'm supposed to do with my stabilizers. Weirdly the Alice builds use both a screw in and plate mounted 2x stabilizer for the spacebar. When I asked what I should use, I got different replies from different builders. I ended up using the screw in and plate mounted combo which works fine. It doesn't feel that different to me either. Also I had no idea what stab stoppers were or how to insert them so <a href="https://www.youtube.com/watch?v=OcK_8qf-UP8" target="_blank" rel="noopener noreferrer" class="">this video was really helpful</a>.</p>
 <p>&nbsp;</p>
 <p><img decoding="async" loading="lazy" alt="Eleven" src="https://your-docusaurus-site.example.com/assets/images/20231007_0016-e811c6da12275020b65133532466048e.webp" width="1280" height="720" class="img_ev3q"></p>
 <p>Lubing Stabilizers</p>
@@ -105,7 +218,7 @@
 <p>&nbsp;</p>
 <p><img decoding="async" loading="lazy" alt="Thirteen" src="https://your-docusaurus-site.example.com/assets/images/20231007_0026-5ab1ea3e2791349011c704761a1309ff.webp" width="1280" height="720" class="img_ev3q"></p>
 <p>Lubing Stabilizers</p>
-<p>I realize I should test the PCB before I start soldering just in case. I plug in the PCB to do the tweezer testing like I see on LightningXI's streams....only to be blinded by the max brightness of the stupid LEDs on the board. I try to figure out where in Via how to turn the lighting off and it takes me a <a href="https://www.reddit.com/r/MechanicalKeyboards/comments/ha6oqz/how_to_switch_off_rgb_lights/" target="_blank" rel="noopener noreferrer">few minutes to figure this out</a>. RIP my retinas though. Now that I'm blind, it's time to pop in the switches and solder.</p>
+<p>I realize I should test the PCB before I start soldering just in case. I plug in the PCB to do the tweezer testing like I see on LightningXI's streams....only to be blinded by the max brightness of the stupid LEDs on the board. I try to figure out where in Via how to turn the lighting off and it takes me a <a href="https://www.reddit.com/r/MechanicalKeyboards/comments/ha6oqz/how_to_switch_off_rgb_lights/" target="_blank" rel="noopener noreferrer" class="">few minutes to figure this out</a>. RIP my retinas though. Now that I'm blind, it's time to pop in the switches and solder.</p>
 <p>&nbsp;</p>
 <p><img decoding="async" loading="lazy" alt="Fourteen" src="https://your-docusaurus-site.example.com/assets/images/20231007_0024-4319f69a09e98dc6284dc27e4b682e60.webp" width="1280" height="720" class="img_ev3q"></p>
 <p>Spacing tool</p>
@@ -127,14 +240,14 @@
 <p>All the caps</p>
 <p>Flipped it over and put the caps on. Because I have very old GMK sets (from 2013ish) there is not a lot of compatibilty for Alice layouts. I think I made it work though. I do another test in Via and I'm all set! Now the hardest part is to see what resin I put on the board.</p>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="thanks-to">Thanks to...<a href="https://your-docusaurus-site.example.com/blog/amano#thanks-to" class="hash-link" aria-label="Direct link to Thanks to..." title="Direct link to Thanks to..." translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="thanks-to">Thanks to...<a href="https://your-docusaurus-site.example.com/blog/amano#thanks-to" class="hash-link" aria-label="Direct link to Thanks to..." title="Direct link to Thanks to..." translate="no">​</a></h2>
 <ul>
-<li>extrapriusplease for the helpful stream for reference and sharing your stab experience with me</li>
-<li><a href="https://discord.gg/sZFEGNgE" target="_blank" rel="noopener noreferrer">LightningXI and Lightningcord</a> for helping me with the stabs</li>
-<li><a href="https://www.theremingoat.com/blog/invokeys-black-sesame-switch-review" target="_blank" rel="noopener noreferrer">ThereminGoat for helping me to research new to me switches</a></li>
-<li>The super helpful stab stoppers video</li>
-<li>Christian for gifting me the plate spacing tool.</li>
-<li>loserism and Ankit for letting me punish them with my stream of conciousness while I was building and working on the build log.</li>
+<li class="">extrapriusplease for the helpful stream for reference and sharing your stab experience with me</li>
+<li class=""><a href="https://discord.gg/sZFEGNgE" target="_blank" rel="noopener noreferrer" class="">LightningXI and Lightningcord</a> for helping me with the stabs</li>
+<li class=""><a href="https://www.theremingoat.com/blog/invokeys-black-sesame-switch-review" target="_blank" rel="noopener noreferrer" class="">ThereminGoat for helping me to research new to me switches</a></li>
+<li class="">The super helpful stab stoppers video</li>
+<li class="">Christian for gifting me the plate spacing tool.</li>
+<li class="">loserism and Ankit for letting me punish them with my stream of conciousness while I was building and working on the build log.</li>
 </ul>]]></content:encoded>
             <category>buildlog</category>
         </item>
@@ -153,73 +266,73 @@
 <p>Everything the zine comes with. Please note that the zine will not say "Draft 4F" on the cover in the final version.</p>
 <p>Volume 2.1 is the first in this revival zine series. In this volume, I talked to HoffmanMyster, LightningXI, and ThereminGoat. I wanted to speak to people who have a lot of time in the hobby and are still involved. In case you're not familiar with these people and need an introduction:</p>
 <p>HoffmanMyster is an old friend of mine who has been a long time community member and now Drop employee. LightningXI is a Twitch streamer who builds a lot of keyboards and the owner of the best keyboard community. And ThereminGoat writes your favorite switch reviews on his site.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="i-want-to-buy-a-zine-where-do-i-go">I want to buy a zine, where do I go?<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#i-want-to-buy-a-zine-where-do-i-go" class="hash-link" aria-label="Direct link to I want to buy a zine, where do I go?" title="Direct link to I want to buy a zine, where do I go?" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="i-want-to-buy-a-zine-where-do-i-go">I want to buy a zine, where do I go?<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#i-want-to-buy-a-zine-where-do-i-go" class="hash-link" aria-label="Direct link to I want to buy a zine, where do I go?" title="Direct link to I want to buy a zine, where do I go?" translate="no">​</a></h2>
 <p>The zines will be $10 shipped worldwide. Please note they will ship using USPS letter mail stamps.</p>
 <p>The first sale of the zines will be at the Glastonbury CT NEKB Meetup - Coffee and Keyboards at RaonJena on 7/8/23. An online sale will follow soon in July 2023 with information to come. And I will have these zines for sale going forward on my site as well as at any meetups I'm attending. I will announce when the online storefront is open and has stock.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="im-interested-but-whats-a-zine">I'm interested but what's a zine?<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#im-interested-but-whats-a-zine" class="hash-link" aria-label="Direct link to I'm interested but what's a zine?" title="Direct link to I'm interested but what's a zine?" translate="no">​</a></h2>
-<p><a href="https://your-docusaurus-site.example.com/blog/tz2-v1">Check the introduction paragraph from this post.</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="i-want-more-updates">I want more updates<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#i-want-more-updates" class="hash-link" aria-label="Direct link to I want more updates" title="Direct link to I want more updates" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="im-interested-but-whats-a-zine">I'm interested but what's a zine?<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#im-interested-but-whats-a-zine" class="hash-link" aria-label="Direct link to I'm interested but what's a zine?" title="Direct link to I'm interested but what's a zine?" translate="no">​</a></h2>
+<p><a class="" href="https://your-docusaurus-site.example.com/blog/tz2-v1">Check the introduction paragraph from this post.</a></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="i-want-more-updates">I want more updates<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#i-want-more-updates" class="hash-link" aria-label="Direct link to I want more updates" title="Direct link to I want more updates" translate="no">​</a></h2>
 <p>Join the discord, follow @tactilezine on IG, or check on this website.</p>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="links-for-the-interviewed-folks">Links for the Interviewed Folks<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#links-for-the-interviewed-folks" class="hash-link" aria-label="Direct link to Links for the Interviewed Folks" title="Direct link to Links for the Interviewed Folks" translate="no">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="hoffmanmyster">HoffmanMyster<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#hoffmanmyster" class="hash-link" aria-label="Direct link to HoffmanMyster" title="Direct link to HoffmanMyster" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="links-for-the-interviewed-folks">Links for the Interviewed Folks<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#links-for-the-interviewed-folks" class="hash-link" aria-label="Direct link to Links for the Interviewed Folks" title="Direct link to Links for the Interviewed Folks" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="hoffmanmyster">HoffmanMyster<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#hoffmanmyster" class="hash-link" aria-label="Direct link to HoffmanMyster" title="Direct link to HoffmanMyster" translate="no">​</a></h3>
 <ul>
-<li><a href="https://hoffmanmyster.com/" target="_blank" rel="noopener noreferrer">Website</a></li>
-<li><a href="https://instagram.com/@HoffmanMyster" target="_blank" rel="noopener noreferrer">Personal Instagram</a></li>
-<li><a href="https://instagram.com/@typingtestsofthedead" target="_blank" rel="noopener noreferrer">Typing Test Instagram</a></li>
+<li class=""><a href="https://hoffmanmyster.com/" target="_blank" rel="noopener noreferrer" class="">Website</a></li>
+<li class=""><a href="https://instagram.com/@HoffmanMyster" target="_blank" rel="noopener noreferrer" class="">Personal Instagram</a></li>
+<li class=""><a href="https://instagram.com/@typingtestsofthedead" target="_blank" rel="noopener noreferrer" class="">Typing Test Instagram</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="theremingoat">ThereminGoat<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#theremingoat" class="hash-link" aria-label="Direct link to ThereminGoat" title="Direct link to ThereminGoat" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="theremingoat">ThereminGoat<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#theremingoat" class="hash-link" aria-label="Direct link to ThereminGoat" title="Direct link to ThereminGoat" translate="no">​</a></h3>
 <ul>
-<li><a href="https://theremingoat.com/" target="_blank" rel="noopener noreferrer">Website</a></li>
+<li class=""><a href="https://theremingoat.com/" target="_blank" rel="noopener noreferrer" class="">Website</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="lightningxi">LightningXI<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#lightningxi" class="hash-link" aria-label="Direct link to LightningXI" title="Direct link to LightningXI" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lightningxi">LightningXI<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#lightningxi" class="hash-link" aria-label="Direct link to LightningXI" title="Direct link to LightningXI" translate="no">​</a></h3>
 <ul>
-<li><a href="https://lightningkeyboards.com/" target="_blank" rel="noopener noreferrer">Website</a></li>
-<li><a href="https://twitch.tv/lightningkeyboards" target="_blank" rel="noopener noreferrer">Twitch</a></li>
+<li class=""><a href="https://lightningkeyboards.com/" target="_blank" rel="noopener noreferrer" class="">Website</a></li>
+<li class=""><a href="https://twitch.tv/lightningkeyboards" target="_blank" rel="noopener noreferrer" class="">Twitch</a></li>
 </ul>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="things-i-learned-or-relearned">Things I Learned (Or Relearned)<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#things-i-learned-or-relearned" class="hash-link" aria-label="Direct link to Things I Learned (Or Relearned)" title="Direct link to Things I Learned (Or Relearned)" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="things-i-learned-or-relearned">Things I Learned (Or Relearned)<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#things-i-learned-or-relearned" class="hash-link" aria-label="Direct link to Things I Learned (Or Relearned)" title="Direct link to Things I Learned (Or Relearned)" translate="no">​</a></h2>
 <ul>
-<li>Carving stamps</li>
-<li>Practiced print making</li>
-<li>Git - commits, CLI, commenting</li>
-<li>Jekyll and Github - DIY website</li>
-<li>Libreoffice Draw - Software replacement for Microsoft publisher</li>
-<li>Recording discord call using discord bot Craigbot - understanding audio channels and mixing</li>
-<li>Whisper and other AI transcription software - converting the calls into written text</li>
-<li>Relearned how to layout a zine and how to edit words/stories.</li>
-<li>Commissioned art - Learned how to work with an artist. Infinite gratitude and thanks to Bustorblador for the capz mosher. And special thanks to booper for allowing us to use the capz sculpt as inspiration.</li>
-<li>Relearned how to cook up a theme and storyboard - I want my Zines to have an overall theme and a new reason to read them each time.</li>
-<li>Setting up a custom domain and email</li>
-<li>Maintaining a self hosted nextcloud instance - personal backup for all things Tactile Zine Creative Works</li>
-<li>Rediscovered my enjoyment of fountain pens - see your thank you notes!</li>
-<li>Relearning how to post and engage in IG.</li>
-<li>Formatting between printers can be wildly different. Therefore multiple test prints are needed.</li>
-<li>Continued Linux desktop OS and CLI learning. The zine was made on Pop OS and Debian.</li>
-<li>Made my second cut and paste thing: <a href="https://your-docusaurus-site.example.com/blog/s23meetups">The summer 2023 tour "poster"</a>. Infinite thanks to HoffmanMyster for finding the vintage pic and allowing me to use it.</li>
+<li class="">Carving stamps</li>
+<li class="">Practiced print making</li>
+<li class="">Git - commits, CLI, commenting</li>
+<li class="">Jekyll and Github - DIY website</li>
+<li class="">Libreoffice Draw - Software replacement for Microsoft publisher</li>
+<li class="">Recording discord call using discord bot Craigbot - understanding audio channels and mixing</li>
+<li class="">Whisper and other AI transcription software - converting the calls into written text</li>
+<li class="">Relearned how to layout a zine and how to edit words/stories.</li>
+<li class="">Commissioned art - Learned how to work with an artist. Infinite gratitude and thanks to Bustorblador for the capz mosher. And special thanks to booper for allowing us to use the capz sculpt as inspiration.</li>
+<li class="">Relearned how to cook up a theme and storyboard - I want my Zines to have an overall theme and a new reason to read them each time.</li>
+<li class="">Setting up a custom domain and email</li>
+<li class="">Maintaining a self hosted nextcloud instance - personal backup for all things Tactile Zine Creative Works</li>
+<li class="">Rediscovered my enjoyment of fountain pens - see your thank you notes!</li>
+<li class="">Relearning how to post and engage in IG.</li>
+<li class="">Formatting between printers can be wildly different. Therefore multiple test prints are needed.</li>
+<li class="">Continued Linux desktop OS and CLI learning. The zine was made on Pop OS and Debian.</li>
+<li class="">Made my second cut and paste thing: <a class="" href="https://your-docusaurus-site.example.com/blog/s23meetups">The summer 2023 tour "poster"</a>. Infinite thanks to HoffmanMyster for finding the vintage pic and allowing me to use it.</li>
 </ul>
 <p>&nbsp;</p>
 <p><img decoding="async" loading="lazy" alt="Everything the zine comes with" src="https://your-docusaurus-site.example.com/assets/images/kb-276ca3e8a61feed22079613ab4015051.jpg" width="4032" height="2268" class="img_ev3q"></p>
 <p>Zero, Kingsaver, Tengu - Top to Bottom</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="keyboards-used-during-development">Keyboards Used During Development<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#keyboards-used-during-development" class="hash-link" aria-label="Direct link to Keyboards Used During Development" title="Direct link to Keyboards Used During Development" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="keyboards-used-during-development">Keyboards Used During Development<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#keyboards-used-during-development" class="hash-link" aria-label="Direct link to Keyboards Used During Development" title="Direct link to Keyboards Used During Development" translate="no">​</a></h2>
 <ul>
-<li>Filco Zero with SKCM Green Alps. SP DCS Alpine Winter. And various vintage caps. Resin from booper.</li>
-<li>Kingsaver - Retro (From 2013) Korean Custom with SKCM Blue Alps. Vintage caps from an Acer 6011 and Wang 724 as required. Resin from Fifth Fantasy and Booper. Novelties from SP.</li>
-<li>Tengu - Huge gratitude and thanks to Ninewalker for the loaner. Gateron Ink 8008 switches. Keycaps are Keykobo White on Black, GMK CMYW, and Retro (2012ish put the matrix site info down) GMK purple mods. Resin from Hello Caps, HungerWorkStudio, and Sludgekidd.
+<li class="">Filco Zero with SKCM Green Alps. SP DCS Alpine Winter. And various vintage caps. Resin from booper.</li>
+<li class="">Kingsaver - Retro (From 2013) Korean Custom with SKCM Blue Alps. Vintage caps from an Acer 6011 and Wang 724 as required. Resin from Fifth Fantasy and Booper. Novelties from SP.</li>
+<li class="">Tengu - Huge gratitude and thanks to Ninewalker for the loaner. Gateron Ink 8008 switches. Keycaps are Keykobo White on Black, GMK CMYW, and Retro (2012ish put the matrix site info down) GMK purple mods. Resin from Hello Caps, HungerWorkStudio, and Sludgekidd.
 (<em>Please note nothing is for trade/sale</em>)</li>
 </ul>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="behind-the-scenes">Behind the Scenes<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#behind-the-scenes" class="hash-link" aria-label="Direct link to Behind the Scenes" title="Direct link to Behind the Scenes" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="behind-the-scenes">Behind the Scenes<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#behind-the-scenes" class="hash-link" aria-label="Direct link to Behind the Scenes" title="Direct link to Behind the Scenes" translate="no">​</a></h2>
 <ul>
-<li>The thank you notes are handwritten with various sample inks in Platinum Preppies or a Pilot Vanishing Point. The paper was hand deckled. The stamp was hand carved.</li>
-<li>The chat with Hoff lasted for almost 2 hours in a voicecall. The transcript originally started at almost 30 pages in Word (what's the Libreoffice called?). Editing down this interview took me a very long time and was the majority of the time I spent editing.</li>
-<li>Goat's interview was done in late 2022 when the zine was still a fledgling idea. I also didn't realize the body of work they had out there besides the zine including a previous Switch+ interview and a podcast.</li>
-<li>I was originally not going to interview a 3rd person but I decided it felt odd not to.</li>
+<li class="">The thank you notes are handwritten with various sample inks in Platinum Preppies or a Pilot Vanishing Point. The paper was hand deckled. The stamp was hand carved.</li>
+<li class="">The chat with Hoff lasted for almost 2 hours in a voicecall. The transcript originally started at almost 30 pages in Word (what's the Libreoffice called?). Editing down this interview took me a very long time and was the majority of the time I spent editing.</li>
+<li class="">Goat's interview was done in late 2022 when the zine was still a fledgling idea. I also didn't realize the body of work they had out there besides the zine including a previous Switch+ interview and a podcast.</li>
+<li class="">I was originally not going to interview a 3rd person but I decided it felt odd not to.</li>
 </ul>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="outro">Outro<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#outro" class="hash-link" aria-label="Direct link to Outro" title="Direct link to Outro" translate="no">​</a></h2>
-<p>I know I said this in the zine but if you stumble on this post without buying the zine, thank you for your interest and support. To anyone who's been interested, talked to me about the zine, pitched an idea, let me bounce ideas off them, or just took the time to read something I posted: Thank you. I say this in the zine too as well but thank you very very much to <a href="https://www.instagram.com/bustorblador/" target="_blank" rel="noopener noreferrer">bustorblador</a> for creating the amazing capz mosher art. And thank you to booper for giving us permission to use her sculpt for the art.</p>
-<p>If you're going to any <a href="https://your-docusaurus-site.example.com/blog/s23meetups">meetups that I'm also attending</a>, I hope to see you there. I'm looking forward to hearing any feedback on Volume 2.1 and I hope you're excited for more zines to come.</p>]]></content:encoded>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="outro">Outro<a href="https://your-docusaurus-site.example.com/blog/tz2-v1#outro" class="hash-link" aria-label="Direct link to Outro" title="Direct link to Outro" translate="no">​</a></h2>
+<p>I know I said this in the zine but if you stumble on this post without buying the zine, thank you for your interest and support. To anyone who's been interested, talked to me about the zine, pitched an idea, let me bounce ideas off them, or just took the time to read something I posted: Thank you. I say this in the zine too as well but thank you very very much to <a href="https://www.instagram.com/bustorblador/" target="_blank" rel="noopener noreferrer" class="">bustorblador</a> for creating the amazing capz mosher art. And thank you to booper for giving us permission to use her sculpt for the art.</p>
+<p>If you're going to any <a class="" href="https://your-docusaurus-site.example.com/blog/s23meetups">meetups that I'm also attending</a>, I hope to see you there. I'm looking forward to hearing any feedback on Volume 2.1 and I hope you're excited for more zines to come.</p>]]></content:encoded>
             <category>vol2</category>
         </item>
         <item>
@@ -232,21 +345,21 @@
 <p>This summer, I'll be attending a bunch of keyboard meetups.  I wanna try out lots of new to me keyboards, switches, and see new artisan keycaps. And of course, I want to meet ya'll. Please come find me. I will have zines and stickers. I'll update this post if I plan on attending more dates.</p>
 <p>I've also decided that I want to preserve the original intent of Tactile Zine 1.0. These zines will not be reprinted in any public runs. However I learned that Joey Quinn, an old reader of 1.0, was bringing the zines to meetups to show people. I thought this would be a fun way to get more people to see 1.0. So I'm happy to announce that HoffmanMyster and Joey Quinn will be have the full run of 1.0 available to bring to meetups if they choose to. HoffmanMyster has said he'll be bringing the 1.0 zine run to the Milwaukee meetup so please check it out.</p>
 <ul>
-<li>6/17 - Milwaukee, Wisconsin x (<a href="https://www.eventbrite.co.uk/e/milwaukee-mechanical-keyboard-meetup-tickets-631802888447" target="_blank" rel="noopener noreferrer">Milwaukee Mechanical Keyboard Meetup</a>)</li>
-<li>7/8 - Glastonbury, Connecticut (<a href="https://www.instagram.com/p/CsWaYcMsx47/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank" rel="noopener noreferrer">NEKB Meetup - Coffee &amp; Keyboards</a>)</li>
-<li>7/29 - <a href="https://www.eventbrite.com/e/nyc-mechanical-keyboard-meetup-july-2023-tickets-658110023797?aff=oddtdtcreator" target="_blank" rel="noopener noreferrer">NYC Mechanical Keyboard Meetup July 2023</a></li>
-<li>9/9 - Providence, Rhode Island (<a href="https://cannonkeys.com/products/cannonkeys-meetup-ticket" target="_blank" rel="noopener noreferrer">CannonKeys Meetup 2023</a>)<!-- -->
+<li class="">6/17 - Milwaukee, Wisconsin x (<a href="https://www.eventbrite.co.uk/e/milwaukee-mechanical-keyboard-meetup-tickets-631802888447" target="_blank" rel="noopener noreferrer" class="">Milwaukee Mechanical Keyboard Meetup</a>)</li>
+<li class="">7/8 - Glastonbury, Connecticut (<a href="https://www.instagram.com/p/CsWaYcMsx47/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank" rel="noopener noreferrer" class="">NEKB Meetup - Coffee &amp; Keyboards</a>)</li>
+<li class="">7/29 - <a href="https://www.eventbrite.com/e/nyc-mechanical-keyboard-meetup-july-2023-tickets-658110023797?aff=oddtdtcreator" target="_blank" rel="noopener noreferrer" class="">NYC Mechanical Keyboard Meetup July 2023</a></li>
+<li class="">9/9 - Providence, Rhode Island (<a href="https://cannonkeys.com/products/cannonkeys-meetup-ticket" target="_blank" rel="noopener noreferrer" class="">CannonKeys Meetup 2023</a>)<!-- -->
 <ul>
-<li>x HoffmanMyster showcase</li>
+<li class="">x HoffmanMyster showcase</li>
 </ul>
 </li>
 </ul>
 <h1>New Bustorblador Art!</h1>
 <p><img decoding="async" loading="lazy" alt="bustorblador x booper" src="https://your-docusaurus-site.example.com/assets/images/bustorart-1a0c18ffb3d385def6fe0faefcb7314d.jpg" width="4032" height="2268" class="img_ev3q"></p>
-<p>Also wanted to show off some new stickers I'll have to giveaway at meetups and include with the zines. Booper was gracious enough to allow us to use their capz sculpt as inspirious. The incredible bustorblador turned that sculpt into this super fun mosher sticker. Thanks very much! Please check them out <a href="https://www.instagram.com/bustorblador/" target="_blank" rel="noopener noreferrer">@bustorblador</a>.</p>
+<p>Also wanted to show off some new stickers I'll have to giveaway at meetups and include with the zines. Booper was gracious enough to allow us to use their capz sculpt as inspirious. The incredible bustorblador turned that sculpt into this super fun mosher sticker. Thanks very much! Please check them out <a href="https://www.instagram.com/bustorblador/" target="_blank" rel="noopener noreferrer" class="">@bustorblador</a>.</p>
 <h1>Where's Tactile Zine Volume 2.1?</h1>
 <p>Coming soon! I am working to have these done by 6/24 for reasons. Please look forward to that!</p>
-<p>I also crossposted this to the <a href="https://geekhack.org/index.php?topic=120239.msg3164303#msg3164303" target="_blank" rel="noopener noreferrer">Tactile Zine 2.0 geekhack thread</a> because why not.</p>]]></content:encoded>
+<p>I also crossposted this to the <a href="https://geekhack.org/index.php?topic=120239.msg3164303#msg3164303" target="_blank" rel="noopener noreferrer" class="">Tactile Zine 2.0 geekhack thread</a> because why not.</p>]]></content:encoded>
             <category>buildlog</category>
         </item>
         <item>
@@ -260,31 +373,31 @@
 <p>What's a zine? It's a physical, printed on paper, mini magazine that I am self publishing. And to keep the original vibe of the zine, this entire project is DIY. I taught myself how to self host the website. I made the stamps for the thank you notes. I write and edit everything myself. I'm going to try and work on as much art myself as I can. This is a passion project and as such, things can take some time.</p>
 <p>That's not to say I don't want to work with others so if you have an idea, want to contribute, or provide some feedback, please let me know. I also want to hire some of the amazing artists I've seen in the community to provide art for the zines or stickers.</p>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="links">Links<a href="https://your-docusaurus-site.example.com/blog/tz2#links" class="hash-link" aria-label="Direct link to Links" title="Direct link to Links" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="links">Links<a href="https://your-docusaurus-site.example.com/blog/tz2#links" class="hash-link" aria-label="Direct link to Links" title="Direct link to Links" translate="no">​</a></h2>
 <ul>
-<li>Blog: <a href="https://tactilezine.xyz/posts" target="_blank" rel="noopener noreferrer">https://tactilezine.xyz/posts</a></li>
-<li>Instagram: <a href="https://www.instagram.com/tactilezine/" target="_blank" rel="noopener noreferrer">@tactilezine</a></li>
-<li>geekhack forum: <a href="https://geekhack.org/index.php?action=profile;area=showposts;sa=topics;u=23841" target="_blank" rel="noopener noreferrer">I post as CPTBadAss</a>.</li>
+<li class="">Blog: <a href="https://tactilezine.xyz/posts" target="_blank" rel="noopener noreferrer" class="">https://tactilezine.xyz/posts</a></li>
+<li class="">Instagram: <a href="https://www.instagram.com/tactilezine/" target="_blank" rel="noopener noreferrer" class="">@tactilezine</a></li>
+<li class="">geekhack forum: <a href="https://geekhack.org/index.php?action=profile;area=showposts;sa=topics;u=23841" target="_blank" rel="noopener noreferrer" class="">I post as CPTBadAss</a>.</li>
 </ul>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-happened-to-tactile-zine-10">What happened to Tactile Zine 1.0?<a href="https://your-docusaurus-site.example.com/blog/tz2#what-happened-to-tactile-zine-10" class="hash-link" aria-label="Direct link to What happened to Tactile Zine 1.0?" title="Direct link to What happened to Tactile Zine 1.0?" translate="no">​</a></h2>
-<p>Nothing malicious happened. I lost interest and wanted to get into other things. <a href="https://geekhack.org/index.php?topic=70769.0" target="_blank" rel="noopener noreferrer">Check out the original thread on the geekhack forums</a>. I took a 6 year break and I'm interested in mechanical keyboards again so I'm back.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-happened-to-tactile-zine-10">What happened to Tactile Zine 1.0?<a href="https://your-docusaurus-site.example.com/blog/tz2#what-happened-to-tactile-zine-10" class="hash-link" aria-label="Direct link to What happened to Tactile Zine 1.0?" title="Direct link to What happened to Tactile Zine 1.0?" translate="no">​</a></h2>
+<p>Nothing malicious happened. I lost interest and wanted to get into other things. <a href="https://geekhack.org/index.php?topic=70769.0" target="_blank" rel="noopener noreferrer" class="">Check out the original thread on the geekhack forums</a>. I took a 6 year break and I'm interested in mechanical keyboards again so I'm back.</p>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="where-can-i-buy-a-zine">Where can I buy a zine?<a href="https://your-docusaurus-site.example.com/blog/tz2#where-can-i-buy-a-zine" class="hash-link" aria-label="Direct link to Where can I buy a zine?" title="Direct link to Where can I buy a zine?" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="where-can-i-buy-a-zine">Where can I buy a zine?<a href="https://your-docusaurus-site.example.com/blog/tz2#where-can-i-buy-a-zine" class="hash-link" aria-label="Direct link to Where can I buy a zine?" title="Direct link to Where can I buy a zine?" translate="no">​</a></h2>
 <p>Like Tactile Zine 1.0, the zine will be physical only. I cannot offer the zine for free like I did for 1.0 but I plan on keeping the zine as affordable as possible.</p>
-<p>When they're available, I'll post an update on Instagram, the blog, and on the geekhack thread. They'll be available at <a href="https://store.tactilezine.xyz/" target="_blank" rel="noopener noreferrer">https://store.tactilezine.xyz</a>. If there's nothing up or you can't access the site, there's nothing for sale at the moment. Check back whenever you see an announcement from me.</p>
+<p>When they're available, I'll post an update on Instagram, the blog, and on the geekhack thread. They'll be available at <a href="https://store.tactilezine.xyz/" target="_blank" rel="noopener noreferrer" class="">https://store.tactilezine.xyz</a>. If there's nothing up or you can't access the site, there's nothing for sale at the moment. Check back whenever you see an announcement from me.</p>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="id-like-to-provide-feedback-how-can-i-get-in-touch">I'd like to provide feedback, how can I get in touch?<a href="https://your-docusaurus-site.example.com/blog/tz2#id-like-to-provide-feedback-how-can-i-get-in-touch" class="hash-link" aria-label="Direct link to I'd like to provide feedback, how can I get in touch?" title="Direct link to I'd like to provide feedback, how can I get in touch?" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="id-like-to-provide-feedback-how-can-i-get-in-touch">I'd like to provide feedback, how can I get in touch?<a href="https://your-docusaurus-site.example.com/blog/tz2#id-like-to-provide-feedback-how-can-i-get-in-touch" class="hash-link" aria-label="Direct link to I'd like to provide feedback, how can I get in touch?" title="Direct link to I'd like to provide feedback, how can I get in touch?" translate="no">​</a></h2>
 <ul>
-<li>Email: <a href="mailto:contact@tactilezine.xyz" target="_blank" rel="noopener noreferrer">contact@tactilezine.xyz</a></li>
-<li>Instagram: <a href="https://www.instagram.com/tactilezine/" target="_blank" rel="noopener noreferrer">@tactilezine</a></li>
-<li>Discord: CBA88#8728</li>
-<li>geekhack forum: Message CPTBadAss or comment in the Tactile Zine 2.0 thread</li>
+<li class="">Email: <a href="mailto:contact@tactilezine.xyz" target="_blank" rel="noopener noreferrer" class="">contact@tactilezine.xyz</a></li>
+<li class="">Instagram: <a href="https://www.instagram.com/tactilezine/" target="_blank" rel="noopener noreferrer" class="">@tactilezine</a></li>
+<li class="">Discord: CBA88#8728</li>
+<li class="">geekhack forum: Message CPTBadAss or comment in the Tactile Zine 2.0 thread</li>
 </ul>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-coming-next">What's coming next?<a href="https://your-docusaurus-site.example.com/blog/tz2#whats-coming-next" class="hash-link" aria-label="Direct link to What's coming next?" title="Direct link to What's coming next?" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="whats-coming-next">What's coming next?<a href="https://your-docusaurus-site.example.com/blog/tz2#whats-coming-next" class="hash-link" aria-label="Direct link to What's coming next?" title="Direct link to What's coming next?" translate="no">​</a></h2>
 <p>Currently I'm working on editing the interviews I have for the next time. That will hopefully be on soonTM. I do also have an idea for a second zine as well so that will be worked on as soon as I am finished with the other.</p>
-<p>I have been posting a few things on <a href="https://tactilezine.xyz/posts" target="_blank" rel="noopener noreferrer">my blog</a> and will continue doing so. I am interested in doing some new to me switch reviews (lol everything is new to me). I just made my first purchases on Switch Oddities and Keyleido.</p>
+<p>I have been posting a few things on <a href="https://tactilezine.xyz/posts" target="_blank" rel="noopener noreferrer" class="">my blog</a> and will continue doing so. I am interested in doing some new to me switch reviews (lol everything is new to me). I just made my first purchases on Switch Oddities and Keyleido.</p>
 <p>I will be attending at least 2 meetups this summer (in Connecticut and the CannonKeys meetup). I have talked to a few people who have asked if I would reprint the 1.0 zines. My intent for those was to stay print only. However, I realize there's lots of new people who may have found the project later and wasn't able to read them. I will be bringing the 1.0 zines to the meetups so people can browse them. So I hope to see you at the meetups. I am hoping to attend more as well and will try to make the effort of bringing the 1.0 zines for people to check out. I also hope to have 2.0 zines and stickers for sale at any meetups I go to.</p>
 <p>Please look forward to what's coming next!</p>]]></content:encoded>
             <category>vol2</category>
@@ -298,66 +411,66 @@
             <content:encoded><![CDATA[<p>I've finally taken the plunge to start modding my Filco Zero.  I was scared to mod it as there were not very many replacement parts when I looked into it a while back (read 6+ years ago). But now with the Matias stabilizers, the easy availability of Costar stabilizers, and new DCS Alps sets available, I wanted to get the Zero updated.</p>
 <p>I did cover some of my mods in a geekhack modding log but I wanted to expand on this so I had a reference in the future. Also figured it might be an interesting read.</p>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="goals">Goals<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#goals" class="hash-link" aria-label="Direct link to Goals" title="Direct link to Goals" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="goals">Goals<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#goals" class="hash-link" aria-label="Direct link to Goals" title="Direct link to Goals" translate="no">​</a></h2>
 <ol>
-<li>
+<li class="">
 <p><del>I wanted to get the stabilizers working with the Cherry stem stabilizers that DCS uses.</del></p>
 </li>
-<li>
+<li class="">
 <p><del>I want to address the stabilizer rattle.</del></p>
 </li>
-<li>
+<li class="">
 <p><del>I want to get the DCS Alpine Winter set I have laying around working on to my keyboard.</del></p>
 </li>
-<li>
+<li class="">
 <p><del>I want to address the ping on the upstroke.</del></p>
 </li>
-<li>
+<li class="">
 <p><del>I want to get the Pegasus Hoof working on VIA.</del></p>
 </li>
-<li>
+<li class="">
 <p>I want to replace the cable with something detachable.</p>
 </li>
 </ol>
-<p>So far, I've succeeded in goals 1 through 4. Those were covered in my <a href="https://geekhack.org/index.php?topic=119951.0" target="_blank" rel="noopener noreferrer">modding log that I posted on geekhack</a>. Essentially I had to rebend the stabilizer wires, modify some of the stabilizer inserts, and sand downt he spacebar.</p>
+<p>So far, I've succeeded in goals 1 through 4. Those were covered in my <a href="https://geekhack.org/index.php?topic=119951.0" target="_blank" rel="noopener noreferrer" class="">modding log that I posted on geekhack</a>. Essentially I had to rebend the stabilizer wires, modify some of the stabilizer inserts, and sand downt he spacebar.</p>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tools">Tools<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#tools" class="hash-link" aria-label="Direct link to Tools" title="Direct link to Tools" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tools">Tools<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#tools" class="hash-link" aria-label="Direct link to Tools" title="Direct link to Tools" translate="no">​</a></h2>
 <p>It's really nice that my hobbies work together sometimes. I was able to use a lot of the mini painting tools for the modding work in the GH thread.</p>
 <ul>
-<li>Infini standing sticks</li>
-<li>Sanding swizzle sticks</li>
-<li>Busted army painter brush</li>
-<li>2 regular ass needle nose pliers</li>
-<li>The same krytox 205g0 I've been using forever</li>
-<li>Painters Tape</li>
+<li class="">Infini standing sticks</li>
+<li class="">Sanding swizzle sticks</li>
+<li class="">Busted army painter brush</li>
+<li class="">2 regular ass needle nose pliers</li>
+<li class="">The same krytox 205g0 I've been using forever</li>
+<li class="">Painters Tape</li>
 </ul>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="testing">Testing<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#testing" class="hash-link" aria-label="Direct link to Testing" title="Direct link to Testing" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="testing">Testing<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#testing" class="hash-link" aria-label="Direct link to Testing" title="Direct link to Testing" translate="no">​</a></h2>
 <p>There was a suggestion that there are issues with the DCS Alps sets not fitting correctly on Row 3 (homerow). People have reported that the caps might impact the wrong part of the switch and cause the travel to be shortened way more than it's supposed to. I did not encounter that issue with my caps.</p>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tape-modding">Tape Modding<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#tape-modding" class="hash-link" aria-label="Direct link to Tape Modding" title="Direct link to Tape Modding" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tape-modding">Tape Modding<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#tape-modding" class="hash-link" aria-label="Direct link to Tape Modding" title="Direct link to Tape Modding" translate="no">​</a></h2>
 <p>Something I really didn't like about this keyboard is the horrible upstroke ping when the switches were actuated. I was going to buy a foam mat or PE foam to put into the keyboard case but stumbled into the tape mod idea. Figured this was easy enough to try since I already had the tape on hand. I tried it out and it looks jank/10 but it works at like an 7/10. I expected nothing so I was very surprised. I am still interested in buying a foam mat or PE foam to see if I can remove the tape and just rely on those foam options. I just want to remove the ping though.</p>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="upcoming-work">Upcoming Work<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#upcoming-work" class="hash-link" aria-label="Direct link to Upcoming Work" title="Direct link to Upcoming Work" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="upcoming-work">Upcoming Work<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#upcoming-work" class="hash-link" aria-label="Direct link to Upcoming Work" title="Direct link to Upcoming Work" translate="no">​</a></h2>
 <p>I do want to update this blog to include my adventures in DIY cable making and if I can get the Zero to work with Via/Vial. More to come.</p>
 <p>&nbsp;</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="update-dec-24-2023---got-via-working-and-a-detachable-cable">Update Dec 24 2023 - Got Via Working and a Detachable Cable<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#update-dec-24-2023---got-via-working-and-a-detachable-cable" class="hash-link" aria-label="Direct link to Update Dec 24 2023 - Got Via Working and a Detachable Cable" title="Direct link to Update Dec 24 2023 - Got Via Working and a Detachable Cable" translate="no">​</a></h2>
-<p>Thanks to <a href="https://geekhack.org/index.php?topic=119951.msg3177357#msg3177357" target="_blank" rel="noopener noreferrer">speedycake in LightningKeyboard's Discord server</a> I was able to get Via working on the Pegasus Hoof controller. The firmware was ported over to QMK earlier in 2023 but I didn't realize how to get it working. So essentially the steps I followed were:</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="update-dec-24-2023---got-via-working-and-a-detachable-cable">Update Dec 24 2023 - Got Via Working and a Detachable Cable<a href="https://your-docusaurus-site.example.com/blog/filcozeromod#update-dec-24-2023---got-via-working-and-a-detachable-cable" class="hash-link" aria-label="Direct link to Update Dec 24 2023 - Got Via Working and a Detachable Cable" title="Direct link to Update Dec 24 2023 - Got Via Working and a Detachable Cable" translate="no">​</a></h2>
+<p>Thanks to <a href="https://geekhack.org/index.php?topic=119951.msg3177357#msg3177357" target="_blank" rel="noopener noreferrer" class="">speedycake in LightningKeyboard's Discord server</a> I was able to get Via working on the Pegasus Hoof controller. The firmware was ported over to QMK earlier in 2023 but I didn't realize how to get it working. So essentially the steps I followed were:</p>
 <ol>
-<li>
+<li class="">
 <p>Set the controller to DFU mode with the magnetic reset</p>
 </li>
-<li>
-<p>Download the Pegasus Hoof firmware from <a href="https://www.caniusevia.com/docs/download_firmware" target="_blank" rel="noopener noreferrer">this website</a></p>
+<li class="">
+<p>Download the Pegasus Hoof firmware from <a href="https://www.caniusevia.com/docs/download_firmware" target="_blank" rel="noopener noreferrer" class="">this website</a></p>
 </li>
-<li>
+<li class="">
 <p>Use the QMK toolbox tool to flash the firmware. I'd need to select the atmega32U2</p>
 </li>
 </ol>
-<p>I confirmed that I have a 2013 Pegasus Hoof <a href="https://geekhack.org/index.php?topic=71855.0" target="_blank" rel="noopener noreferrer">from my old build log when I modded my Zero</a>. And confirmed my controller was running an old <a href="https://geekhack.org/index.php?topic=51252.0" target="_blank" rel="noopener noreferrer">EasyAVR firmware</a>. So I grabbed the 2013 Pegasus Hoof firmware.</p>
-<p>Next I booted up my Windows Virtual Machine and installed <a href="https://github.com/qmk/qmk_toolbox" target="_blank" rel="noopener noreferrer">QMK toolbox</a>. Then reset my controller with a magnet and passed the USB input into the VM. I set the MCU type to atmega32U2 and then flashed the hex file from Caniusevia.com. Once it's done, I just booted up Via and it worked!</p>
+<p>I confirmed that I have a 2013 Pegasus Hoof <a href="https://geekhack.org/index.php?topic=71855.0" target="_blank" rel="noopener noreferrer" class="">from my old build log when I modded my Zero</a>. And confirmed my controller was running an old <a href="https://geekhack.org/index.php?topic=51252.0" target="_blank" rel="noopener noreferrer" class="">EasyAVR firmware</a>. So I grabbed the 2013 Pegasus Hoof firmware.</p>
+<p>Next I booted up my Windows Virtual Machine and installed <a href="https://github.com/qmk/qmk_toolbox" target="_blank" rel="noopener noreferrer" class="">QMK toolbox</a>. Then reset my controller with a magnet and passed the USB input into the VM. I set the MCU type to atmega32U2 and then flashed the hex file from Caniusevia.com. Once it's done, I just booted up Via and it worked!</p>
 <p>I'm very happy to have my decade old controller and keyboard in the modern age!</p>
-<p>Lastly, thanks to some new interest in Filcos, some friends are putting together a little buy from <a href="https://keebstuff.com/" target="_blank" rel="noopener noreferrer">KeebStuff</a> so that we can get a Filco cable that attaches into the Filco board connector and terminates into a female LEMO end. That way I can have one LEMO cable for all of my boards...wait, I need to figure out what to do with my Kishsaver now. That's another project for another day.</p>]]></content:encoded>
+<p>Lastly, thanks to some new interest in Filcos, some friends are putting together a little buy from <a href="https://keebstuff.com/" target="_blank" rel="noopener noreferrer" class="">KeebStuff</a> so that we can get a Filco cable that attaches into the Filco board connector and terminates into a female LEMO end. That way I can have one LEMO cable for all of my boards...wait, I need to figure out what to do with my Kishsaver now. That's another project for another day.</p>]]></content:encoded>
             <category>buildlog</category>
         </item>
     </channel>
